@@ -1,0 +1,1 @@
+# UTS_Kecerdasan-Buatan_2306107_Firman
