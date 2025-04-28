@@ -39,6 +39,3 @@ Poin-poin yang dibahas:
 
 Tugas ini disusun untuk memahami penerapan sistem cerdas berbasis aturan sederhana serta mengenal implementasi AI di bidang kesehatan mental secara lebih luas.
 
----
-
-> Dibuat dengan semangat belajar dan kreativitas untuk menyelesaikan UTS Kecerdasan Buatan.
