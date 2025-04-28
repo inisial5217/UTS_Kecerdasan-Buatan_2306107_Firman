@@ -18,10 +18,10 @@ Sistem pakar dikembangkan dengan:
 - Implementasi Program dalam Prolog dan Python
 - Penjelasan Alur Inferensi
 
-## 📌 Soal Nomor 2: Review Jurnal AI dalam Kesehatan Mental
+## 📌 Soal Nomor 2: Review Jurnal AI dalam Kesehatan
 
 Jurnal yang direview:
-> **Artificial Intelligence in Mental Health Care: A Systematic Review of Applications in Diagnosis, Monitoring, and Intervention**
+> **Sistem Deteksi Gejala Hipoksia Berdasarkan Saturasi Oksigen dan Detak Jantung Menggunakan Metode Fuzzy Berbasis Arduino**
 
 Poin-poin yang dibahas:
 - Tujuan penelitian
@@ -33,7 +33,7 @@ Poin-poin yang dibahas:
 ## 📂 Struktur Folder
 
 - **/Data Pendukung**  
-  Berisi file tugas seperti dokumen Word (.docx) dan kode Prolog (.pl).
+  Berisi file tugas seperti dokumen Pdf (.pdf) dan kode Prolog (.pl).
 
 ## 🚀 Catatan Tambahan
 
