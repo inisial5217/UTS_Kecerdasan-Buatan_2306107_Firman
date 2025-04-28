@@ -33,7 +33,7 @@ Poin-poin yang dibahas:
 ## Adapun Struktur Folder
 
 - **/Data Pendukung**  
-  Berisi file tugas seperti dokumen Pdf (.pdf) dan kode Prolog (.pl).
+  Berisi file tugas seperti dokumen Pdf (.pdf) dan kode Prolog (.pl) sama Screenshot.
 
 ## Catatan Tambahan
 
